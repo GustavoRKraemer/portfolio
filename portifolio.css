@@ -1,0 +1,12 @@
+body {
+    background: url(portfolio.jpeg);
+    text-align: center;
+    background-color: rgb(red, green, blue);
+    font-size: 200%;
+}
+
+p {
+    background: rgb(0,36,36);
+    background: linear-gradient(90deg, rgba(0,36,36,1) 0%, rgba(121,9,9,1) 35%, rgba(26,255,0,1) 100%);
+    font-style: italic;
+}
